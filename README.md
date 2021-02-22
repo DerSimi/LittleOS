@@ -3,7 +3,7 @@ This is a bitty os written in NASM. There are not many features included. Howeve
 
 More features will be added in the future.
 
-You can test it on your own machine by using [qemu](https://www.qemu.org/). This is btw. a CPU emulator. 
+You can test it on your own machine using [qemu](https://www.qemu.org/). This is btw. a CPU emulator. 
 
 I uploaded the compiled version as well, you can run it with:
 
