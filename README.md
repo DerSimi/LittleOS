@@ -1,5 +1,5 @@
 # LittleOS
-This is a bitty os written in NASM. There are not many features included. However this [document](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf/) was very useful.
+This is a bitty os written in NASM. There are not many features included. However this [document](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) was very useful.
 
 More features will be added in the future.
 
