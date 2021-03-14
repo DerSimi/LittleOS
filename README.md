@@ -10,10 +10,10 @@ I uploaded the compiled version as well, you can run it with:
 ```
 qemu-system-i386 boot.bin
 ```
-If you don't trust me, no problem, you can compile it on your own machine, using [nasm](https://www.nasm.us/). 
+Otherwise, you can compile it on your own machine, using [nasm](https://www.nasm.us/). 
 
 ```
 nasm boot.asm -f bin -o boot.bin
 ```
 
-This project could be useful, for the understanding of basic os.
+This project and especially the linked document, could be useful to understand the fundamentals of OS development. 
